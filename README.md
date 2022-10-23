@@ -30,4 +30,4 @@ video clips with unknown maneuver information were extracted to be used in the s
 fine-tuning phase, containing 405 cut-in and 470 lane-pass samples. Unlabeled versions of all 2095 video clips were used in self-supervised learning,
 while the labeled 875 video clips were used in the fine-tuning phase.
 
-Note: You can find labeled dataset in this Google Drive ![link](https://drive.google.com/file/d/18eROKIGLlFHxzOzGNYSlEgXtIlm_gENC/view?usp=sharing) and for the unlabeled dataset you can create an account at Berkeley Deep Drive Dataset portal (https://bdd-data.berkeley.edu/) than randomly download highway labeled videos. 
+Note: You can find labeled dataset in this Google Drive ![link](https://drive.google.com/drive/folders/1pk0zUFGD4C_iSvtATWTIlVP7u_3xzn4i) and for the unlabeled dataset you can create an account at Berkeley Deep Drive Dataset portal (https://bdd-data.berkeley.edu/) than randomly download highway labeled videos. 
