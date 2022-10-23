@@ -15,7 +15,7 @@ the use of several classification heads, augmentation types, and scene simplific
 most successful model outperforms the fully supervised model by ∼2% with an accuracy of 92.52%.
 
 Proposed method architecture:
-![pipeline](https://github.com/ynalcakan/cut-in-maneuver-prediction/blob/main/figures/pipeline_v5.png?raw=true)
+![pipeline](https://github.com/ynalcakan/segment-and-predict-maneuver/blob/main/mcrl-overview_1200dpi.png?raw=true)
 
 ## Information about the repository:
 
