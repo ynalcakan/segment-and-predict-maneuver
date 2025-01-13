@@ -31,3 +31,19 @@ fine-tuning phase, containing 405 cut-in and 470 lane-pass samples. Unlabeled ve
 while the labeled 875 video clips were used in the fine-tuning phase.
 
 Note: You can find labeled dataset in this Google Drive [link](https://drive.google.com/drive/folders/1pk0zUFGD4C_iSvtATWTIlVP7u_3xzn4i/) and for the unlabeled dataset you can create an account at Berkeley Deep Drive Dataset portal (https://bdd-data.berkeley.edu/) than randomly download highway labeled videos. 
+
+
+## Citation
+
+```
+@article{nalcakan2023cut,
+  title={Cut-in maneuver detection with self-supervised contrastive video representation learning},
+  author={Nalcakan, Yagiz and Bastanlar, Yalin},
+  journal={Signal, Image and Video Processing},
+  volume={17},
+  number={6},
+  pages={2915--2923},
+  year={2023},
+  publisher={Springer}
+}
+```
